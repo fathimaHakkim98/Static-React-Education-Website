@@ -1,0 +1,31 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Solway', serif;
+}
+
+#button {
+    color: #DEB887;
+    background-color: white;
+    border-radius: 50px;
+    border: none;
+    padding: 10px 20px;
+  } 
+  .button-center {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  #button:hover {
+    background-color: #DEB887;
+    color: white;
+  }
+
+  .navb{
+    color: black;
+  }
+
+  .navb:hover {
+    color: #DEB887;
+  }
